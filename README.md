@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ping Project<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about anything<br>⚡ Fun fact: I once spent 3 hours debugging a missing semicolon.
+🔭 I’m currently working on **Ping Project**<br>🌱 I’m currently learning **TypeScript**<br>💬 Ask me about anything<br>⚡ Fun fact: I once spent 3 hours debugging a missing semicolon.
 
 
 ## 🌐 Socials:
